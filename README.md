@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AdenikeAwotunde
+- 👋 Hi, I’m @Adenike Awotunde
 - 👀 I’m interested in data science and artificial intelligence
-- 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on data analytics and modelling using Python and R
 - 📫 How to reach me : adenikeisblessed@gmail.com
 
