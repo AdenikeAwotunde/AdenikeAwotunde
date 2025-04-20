@@ -1,4 +1,7 @@
-# 👋 Hello there! I'm Adenike Awotunde
+# Adenike Awotunde
+### Data Scientist @ ClinFocus | 🔍 Driving Impact with ML & Data Insights | STEM Educator & Mentor @ Tech for Young Minds
+
+
 
 ## 💡 About Me
 I’m a passionate and detail-oriented **Data Scientist** with a background in **Microbiology** and years of hands-on experience transforming raw data into valuable insights to drive business and healthcare decisions.
