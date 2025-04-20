@@ -1,5 +1,5 @@
 # Adenike Awotunde
-### Data Scientist @ ClinFocus | 🔍 Driving Impact with ML & Data Insights | STEM Educator & Mentor @ Tech for Young Minds
+### Data Scientist @ ClinFocus | 🔍 Driving Impact with ML & Data Insights | STEM Educator & Mentor @ Tech for Young Minds & Newbies
 
 
 
