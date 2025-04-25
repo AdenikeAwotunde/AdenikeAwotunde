@@ -1,3 +1,4 @@
+![My Profile Picture](https://drive.google.com/uc?export=view&id=1pJxcf0HfGHs9MjXV1IpAtvHtlEHa8y5a)    
 # Adenike Awotunde
 ### Data Scientist @ ClinFocus | 🔍 Driving Impact with ML & Data Insights | STEM Educator & Mentor @ Tech for Young Minds & Newbies
 
